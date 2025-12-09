@@ -44,6 +44,8 @@ The application demonstrates mastery of:
 # Configuration
 
 To adjust the class size or subjects, modify the constants at the top of the `main` method in `Main.java`:
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e18d2666-0da3-49b8-b667-51c4900650ee" />
+
 
 ```java
 final int NUM_STUDENTS = 12; // Change this to test with fewer/more students
@@ -52,4 +54,3 @@ final int NUM_SUBJECTS = 6;# Java_student_scoresheet
 
 
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e18d2666-0da3-49b8-b667-51c4900650ee" />
